@@ -43,6 +43,10 @@ font-size: 13px;
       font-weight: bold;
 color: #cc0000;
     }
+.theory {
+      background-color: #fff8dc;
+      transition: 0.3s;
+    }
 
 
 
