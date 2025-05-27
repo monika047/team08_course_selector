@@ -77,7 +77,11 @@ cursor: pointer;
       margin-right: 8px;
 border: 1px solid #000;
     }
+.yellow { background-color: #fff8dc; }
+    .green { background-color: #e6ffed; }
+    .red { background-color: #ffe5e5; }
 
+   
    
 
      
