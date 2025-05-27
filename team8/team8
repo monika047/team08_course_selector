@@ -30,7 +30,8 @@ text-align: center;
 font-size: 13px;
     }
 
-   
+   th {
+      background-color: #007bff;
 
      
 
