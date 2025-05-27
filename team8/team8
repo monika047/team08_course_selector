@@ -69,7 +69,9 @@ cursor: pointer;
 .legend-item {
       margin-bottom: 10px;
     }
-
+.legend-color {
+      display: inline-block;
+      width: 20px;
 
    
 
