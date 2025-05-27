@@ -3,4 +3,6 @@
 <head>
  <meta charset="UTF-8">
   <title>Slot-Based Timetable</title>
- 
+ <style>
+    body {
+
