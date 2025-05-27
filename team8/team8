@@ -47,6 +47,10 @@ color: #cc0000;
       background-color: #fff8dc;
       transition: 0.3s;
     }
+.lab {
+      background-color: #e6ffed;
+      transition: 0.3s;
+    }
 
 
 
