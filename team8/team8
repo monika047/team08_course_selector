@@ -173,6 +173,8 @@ border: 1px solid #000;
     <tr>
 <td class="time-label">Wednesday</td>
       <td class="theory">C1</td>
+      <td class="theory">A1</td>
+      <td class="theory">F1</td>
 
 
      
