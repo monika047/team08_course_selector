@@ -158,7 +158,8 @@ border: 1px solid #000;
       <td class="theory">TA2</td>
 </tr>
     <tr>
-     
+     <td class="time-label">Tuesday Lab</td>
+      <td class="lab">L5</td>
 
 
      
