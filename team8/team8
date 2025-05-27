@@ -249,6 +249,11 @@ border: 1px solid #000;
 <!-- Legend -->
 <div class="legend">
   <h3>Legend</h3>
+<div class="legend-item"><span class="legend-color yellow"></span> Theory Class</div>
+  <div class="legend-item"><span class="legend-color green"></span> Lab Session</div>
+  <div class="legend-item"><span class="legend-color red"></span> Lunch Break</div>
+</div>
+
 
      
 
