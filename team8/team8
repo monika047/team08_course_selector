@@ -232,5 +232,10 @@ border: 1px solid #000;
       <td class="theory">A2</td>
       <td class="theory">TB2</td>
     </tr>
+    <tr>
+      <td class="time-label">Friday Lab</td>
+      <td class="lab">L17</td>
+      <td class="lab">L18</td>
+
      
 
