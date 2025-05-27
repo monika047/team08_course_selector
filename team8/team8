@@ -160,6 +160,8 @@ border: 1px solid #000;
     <tr>
      <td class="time-label">Tuesday Lab</td>
       <td class="lab">L5</td>
+      <td class="lab">L6</td>
+      <td class="lab">L7</td>
 
 
      
