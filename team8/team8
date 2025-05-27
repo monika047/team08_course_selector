@@ -123,7 +123,8 @@ border: 1px solid #000;
     <tr>
 	    <td class="time-label">Monday</td>
       <td class="theory">A1</td>
-
+<td class="theory">F1</td>
+      <td class="theory">BIT D1</td>
 
      
 
