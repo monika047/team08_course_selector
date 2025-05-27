@@ -147,6 +147,9 @@ border: 1px solid #000;
     <!-- Tuesday -->
     <tr>
       <td class="time-label">Tuesday</td>
+      <td class="theory">B1</td>
+      <td class="theory">G1</td>
+      <td class="theory">PHY E1</td>
 
 
 
