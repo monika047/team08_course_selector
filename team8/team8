@@ -133,7 +133,9 @@ border: 1px solid #000;
       <td class="theory">TC2</td>
     </tr>
     <tr>
-     
+     <td class="time-label">Monday Lab</td>
+      <td class="lab"></td>
+      <td class="lab">PSY L1_L2</td>
 
      
 
