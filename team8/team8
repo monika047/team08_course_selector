@@ -197,6 +197,9 @@ border: 1px solid #000;
     <!-- Thursday -->
     <tr>
       <td class="time-label">Thursday</td>
+      <td class="theory">BIT D1</td>
+      <td class="theory">B1</td>
+      <td class="theory">G1</td>
 
      
 
