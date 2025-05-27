@@ -53,7 +53,10 @@ color: #cc0000;
     }
 .theory:hover, .lab:hover {
       transform: scale(1.05);
+cursor: pointer;
+    }
 
+   
 
 
      
