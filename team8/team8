@@ -81,7 +81,8 @@ border: 1px solid #000;
     .green { background-color: #e6ffed; }
     .red { background-color: #ffe5e5; }
 
-   
+   .notes {
+      margin-top: 30px;
    
 
      
