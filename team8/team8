@@ -63,6 +63,10 @@ cursor: pointer;
       padding: 15px;
       border-radius: 5px;
     }
+   .legend h3 {
+      margin-top: 0;
+    }
+
 
    
 
