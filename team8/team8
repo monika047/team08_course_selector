@@ -41,6 +41,8 @@ font-size: 13px;
  .lunch {
       background-color: #ffe5e5;
       font-weight: bold;
+color: #cc0000;
+    }
 
 
 
