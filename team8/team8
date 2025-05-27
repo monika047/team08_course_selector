@@ -66,6 +66,9 @@ cursor: pointer;
    .legend h3 {
       margin-top: 0;
     }
+.legend-item {
+      margin-bottom: 10px;
+    }
 
 
    
