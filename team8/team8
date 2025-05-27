@@ -121,6 +121,9 @@ border: 1px solid #000;
   <tbody>
 	  <!-- Monday -->
     <tr>
+	    <td class="time-label">Monday</td>
+      <td class="theory">A1</td>
+
 
      
 
