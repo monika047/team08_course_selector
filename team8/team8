@@ -38,6 +38,10 @@ font-size: 13px;
       background-color: #e2e6ea;
       font-weight: bold;
     }
+ .lunch {
+      background-color: #ffe5e5;
+      font-weight: bold;
+
 
 
 
