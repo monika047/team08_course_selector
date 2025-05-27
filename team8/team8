@@ -56,7 +56,9 @@ color: #cc0000;
 cursor: pointer;
     }
 
-   
+   .legend {
+      margin-top: 30px;
+     
 
 
      
