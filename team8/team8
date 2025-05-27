@@ -51,7 +51,8 @@ color: #cc0000;
       background-color: #e6ffed;
       transition: 0.3s;
     }
-
+.theory:hover, .lab:hover {
+      transform: scale(1.05);
 
 
 
