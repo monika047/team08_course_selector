@@ -207,6 +207,9 @@ border: 1px solid #000;
       <td class="theory">G2</td>
       <td class="theory">C2</td>
     </tr>
+     <tr>
+      <td class="time-label">Thursday Lab</td>
+      <td class="lab">L13</td>
 
      
 
