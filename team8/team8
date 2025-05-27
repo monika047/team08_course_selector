@@ -116,7 +116,9 @@ border: 1px solid #000;
       <th>2:10 - 3:00</th>
       <th>3:05 - 3:55</th>
       <th>4:00 - 4:50</th>
-
+</tr>
+  </thead>
+  <tbody>
 
      
 
