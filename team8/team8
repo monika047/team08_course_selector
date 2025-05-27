@@ -259,6 +259,10 @@ border: 1px solid #000;
   <ul>
     <li>Slot A1, B1, etc. represent fixed subject timings as per university calendar.</li>
     <li>Labs are generally scheduled in 2-hour blocks across 2 slots.</li>
+    <li>French and Soft Skills are elective subjects.</li>
+    <li>ENG, PHY, CSE refer to English, Physics, and Computer Science courses respectively.</li>
+  </ul>
+</div>
 
      
 
