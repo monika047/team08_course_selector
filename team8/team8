@@ -256,6 +256,9 @@ border: 1px solid #000;
 <!-- Notes -->
 <div class="notes">
   <h3>Notes:</h3>
+  <ul>
+    <li>Slot A1, B1, etc. represent fixed subject timings as per university calendar.</li>
+    <li>Labs are generally scheduled in 2-hour blocks across 2 slots.</li>
 
      
 
