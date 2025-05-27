@@ -58,10 +58,13 @@ cursor: pointer;
 
    .legend {
       margin-top: 30px;
-     background-color: #f8f9fa;
+      background-color: #f8f9fa;
       border: 1px solid #ccc;
       padding: 15px;
+      border-radius: 5px;
+    }
 
+   
 
      
 
