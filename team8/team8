@@ -171,7 +171,8 @@ border: 1px solid #000;
     </tr>
     <!-- Wednesday -->
     <tr>
-
+<td class="time-label">Wednesday</td>
+      <td class="theory">C1</td>
 
 
      
