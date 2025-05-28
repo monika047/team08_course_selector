@@ -21,7 +21,7 @@ Version Control: Git & GitHub
 This project was developed by a group of four students:
 
 Name	Role/Contribution
-Member 1 MONIKA G	    Frontend (Login & Timetable)
-Member 2 SANGEETA	    Subject Selection Logic
+Member 1 SPOORTHI V    Frontend (Login page)
+Member 2 SANGEETA	    Subject Selection 
 Member 3 AAYAN HASHMI Registration Page & Styling
-Member 4 SPOORTHI V   GitHub Management & Documentation
+Member 4 MONIKA G   time table
